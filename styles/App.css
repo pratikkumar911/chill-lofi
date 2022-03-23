@@ -1,0 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Epilogue:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Epilogue";
+}
+.grained-bg {
+  background-color: #f1efe5;
+  background-position: 0 0;
+  background-size: auto;
+  background-repeat: repeat;
+}
+.white-grained {
+  background-color: #fff;
+  background-position: 0 0;
+  background-size: auto;
+  background-repeat: repeat;
+}
+
+.d-4 {
+  margin-top: 6px;
+  
+}
